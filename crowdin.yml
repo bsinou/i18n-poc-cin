@@ -1,3 +1,0 @@
-files:
-  - source: '**/lang/box/en-US.all.json'
-    translation: /%original_path%/%locale%.all.json
