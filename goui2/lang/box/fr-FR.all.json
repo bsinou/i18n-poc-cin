@@ -12,5 +12,9 @@
   "Goui2.Page.Deleted": {
     "one": "{{.Name}} a effacé {{.Count}} ligne de la base",
     "other": "{{.Name}} a effacé {{.Count}} lignes de la base"
+  },
+  "Goui2.Page.Updated": {
+    "one": "{{.Name}} has updated {{.Count}} line in the repository",
+    "other": "{{.Name}} has updated {{.Count}} lines in the repository"
   }
 }
