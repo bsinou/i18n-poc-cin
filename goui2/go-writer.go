@@ -41,9 +41,11 @@ func doPrint(l string, t i18n.TranslateFunc) {
 
 	fmt.Println("### ", l, ": ", t("Goui2.Page.Title"), "-", t("Goui2.Page.OtherTitle"))
 	fmt.Println("Msg #1:", t("Goui2.Page.Added", 1))
-	fmt.Println("Msg #2:", t("Goui2.Page.Added", 8))
+	fmt.Println("Msg #2:", t("Goui2.Page.Added", 48))
 	fmt.Println("Msg #3:", t("Goui2.Page.Deleted", newDeletionHolder(1, "Jack")))
-	fmt.Println("Msg #4:", t("Goui2.Page.Deleted", newDeletionHolder(6, "Fanny")))
+	fmt.Println("Msg #4:", t("Goui2.Page.Deleted", newDeletionHolder(9, "Fanny")))
+	fmt.Println("Msg #5:", t("Goui2.Page.Updated", newDeletionHolder(1, "Lea")))
+	fmt.Println("Msg #6:", t("Goui2.Page.Updated", newDeletionHolder(5, "Hilary")))
 
 	fmt.Println()
 }
