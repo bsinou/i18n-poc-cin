@@ -1,6 +1,9 @@
 {
   "Goui.Page.Title": {
-    "other": "This is a title for a page in go"
+    "other": "ESo es un titulo para una pagina en Castillano"
+  },
+  "Goui.Page.OtherTitle": {
+    "other": "This is another title"
   },
   "Goui.Page.Added": {
     "one": "Added {{.Count}} new record in the repository",
