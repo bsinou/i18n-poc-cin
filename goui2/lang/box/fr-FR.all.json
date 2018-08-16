@@ -15,6 +15,6 @@
   },
   "Goui2.Page.Updated": {
     "one": "{{.Name}} a mis à jour {{.Count}} ligne dans la base",
-    "other": "{{.Name}} has updated {{.Count}} lines in the repository"
+    "other": "{{.Name}} a mis à jour {{.Count}} lignes dans la base"
   }
 }
