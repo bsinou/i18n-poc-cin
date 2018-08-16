@@ -1,0 +1,16 @@
+{
+  "Goui2.Page.Title": {
+    "other": "This is a title in new go package"
+  },
+  "Goui2.Page.OtherTitle": {
+    "other": "With also subtitle"
+  },
+  "Goui2.Page.Added": {
+    "one": "Added {{.Count}} new line in the repository",
+    "other": "Added {{.Count}} new lines in the repository"
+  },
+  "Goui2.Page.Deleted": {
+    "one": "{{.Name}} has deleted {{.Count}} line from the repository",
+    "other": "{{.Name}} has deleted {{.Count}} lines from the repository"
+  }
+}
