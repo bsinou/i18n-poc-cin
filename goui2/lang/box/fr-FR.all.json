@@ -1,0 +1,16 @@
+{
+  "Goui2.Page.Title": {
+    "other": "Ceci est un titre dans un nouveau paquet Go"
+  },
+  "Goui2.Page.OtherTitle": {
+    "other": "Qui a aussi un sous-titre"
+  },
+  "Goui2.Page.Added": {
+    "one": "{{.Count}} nouvelle ligne a été ajouté dans la base",
+    "other": "{{.Count}} nouvelles lignes ont été ajoutées dans la base"
+  },
+  "Goui2.Page.Deleted": {
+    "one": "{{.Name}} a effacé {{.Count}} ligne de la base",
+    "other": "{{.Name}} has deleted {{.Count}} lines from the repository"
+  }
+}
