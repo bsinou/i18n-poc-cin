@@ -1,6 +1,6 @@
 {
   "Goui.Page.Title": {
-    "other": "ESo es un titulo para una pagina en Castillano"
+    "other": "Eso es un titulo para una pagina en Go"
   },
   "Goui.Page.OtherTitle": {
     "other": "This is another title"
@@ -10,7 +10,7 @@
     "other": "Added {{.Count}} new records in the repository"
   },
   "Goui.Page.Deleted": {
-    "one": "{{.Name}} has deleted {{.Count}} record from the repository",
-    "other": "{{.Name}} has deleted {{.Count}} records from the repository"
+    "one": "{{.Name}} ha eliminado {{.Count}} registro del repositorio",
+    "other": "{{.Name}} ha eliminado {{.Count}} registros en el repositorio"
   }
 }
