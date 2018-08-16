@@ -2,6 +2,9 @@
   "Goui.Page.Title": {
     "other": "Ceci est le titre d'une page en language Go"
   },
+  "Goui.Page.OtherTitle": {
+    "other": "This is another title"
+  },
   "Goui.Page.Added": {
     "one": "{{.Count}} nouvel enregistrement a été ajouté dans la base",
     "other": "{{.Count}} nouveaux enregistrements ont été ajoutés dans la base"
