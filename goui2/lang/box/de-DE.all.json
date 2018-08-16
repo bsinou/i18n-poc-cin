@@ -6,8 +6,8 @@
     "other": "Auch mit Untertitel"
   },
   "Goui2.Page.Added": {
-    "one": "Added {{.Count}} new line in the repository",
-    "other": "Added {{.Count}} new lines in the repository"
+    "one": "{{.Count}} neue Linie ist addiert geworden",
+    "other": "{{.Count}} neuen Linie sind addiert geworden"
   },
   "Goui2.Page.Deleted": {
     "one": "{{.Name}} hat {{.Count}} Line aus dem Repository gelöst",
