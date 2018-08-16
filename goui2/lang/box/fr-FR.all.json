@@ -14,7 +14,7 @@
     "other": "{{.Name}} a effacé {{.Count}} lignes de la base"
   },
   "Goui2.Page.Updated": {
-    "one": "{{.Name}} has updated {{.Count}} line in the repository",
+    "one": "{{.Name}} a mis à jour {{.Count}} ligne dans la base",
     "other": "{{.Name}} has updated {{.Count}} lines in the repository"
   }
 }
