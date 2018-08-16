@@ -39,6 +39,7 @@ func newDeletionHolder(a int, b string) deletionHolder {
 func doPrint(t i18n.TranslateFunc) {
 
 	fmt.Println("Translated Title:", t("Goui.Page.Title"))
+	fmt.Println("And also:", t("Goui.Page.OtherTitle"))
 	fmt.Println()
 
 	fmt.Println("Msg #1:", t("Goui.Page.Added", 1))
