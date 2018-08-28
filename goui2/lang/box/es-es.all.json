@@ -6,8 +6,8 @@
     "other": "Todavia con subtituló"
   },
   "Goui2.Page.Added": {
-    "one": "Added {{.Count}} new line in the repository",
-    "other": "Added {{.Count}} new lines in the repository"
+    "one": "Agregado {{.Count}} nueva línea en el repositorio",
+    "other": "Agregado {{.Count}} nuevas líneas en el repositorio"
   },
   "Goui2.Page.Deleted": {
     "one": "{{.Name}} has deleted {{.Count}} line from the repository",
