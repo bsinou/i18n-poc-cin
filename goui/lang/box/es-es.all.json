@@ -1,0 +1,16 @@
+{
+  "Goui.Page.Title": {
+    "other": "Eso es un titulo para una pagina en Go"
+  },
+  "Goui.Page.OtherTitle": {
+    "other": "This is another title"
+  },
+  "Goui.Page.Added": {
+    "one": "Added {{.Count}} new record in the repository",
+    "other": "Added {{.Count}} new records in the repository"
+  },
+  "Goui.Page.Deleted": {
+    "one": "{{.Name}} ha eliminado {{.Count}} registro del repositorio",
+    "other": "{{.Name}} ha eliminado {{.Count}} registros en el repositorio"
+  }
+}
