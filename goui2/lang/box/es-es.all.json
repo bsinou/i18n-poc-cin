@@ -1,9 +1,9 @@
 {
   "Goui2.Page.Title": {
-    "other": "Se trata de un título en nuevo Go paquete"
+    "other": "This is a title in new go package"
   },
   "Goui2.Page.OtherTitle": {
-    "other": "Todavia con subtituló"
+    "other": "With also subtitle"
   },
   "Goui2.Page.Added": {
     "one": "Added {{.Count}} new line in the repository",
