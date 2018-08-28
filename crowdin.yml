@@ -1,7 +1,16 @@
 files:
-  - source: '*/lang/box/en-US.all.json'
+  - source: '*/lang/box/en-us.all.json'
     translation: /%original_path%/%locale%.all.json
-  - source: '*/i18n/en.json'
+    languages_mapping:
+      locale:
+        fr: fr-fr
+        de: de-de
+        pt-PT: pt-pt
+        pt-BR: pt-br
+        es-ES: es-es
+  - source: '*/i18n/conf/en-us.json'
     translation: /%original_path%/%two_letters_code%.json
-  - source: '*/i18n/conf/en.json'
-    translation: /%original_path%/%two_letters_code%.json
+    languages_mapping:
+      locale:
+        fr: fr-fr
+        de: de-de
