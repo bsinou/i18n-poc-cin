@@ -8,9 +8,24 @@ files:
         pt-PT: pt-pt
         pt-BR: pt-br
         es-ES: es-es
+        it: it-it
   - source: '*/i18n/conf/en-us.json'
-    translation: /%original_path%/%two_letters_code%.json
+    translation: /%original_path%/%locale%.json
     languages_mapping:
       locale:
         fr: fr-fr
         de: de-de
+        pt-PT: pt-pt
+        pt-BR: pt-br
+        es-ES: es-es
+        it: it-it
+  - source: '*/i18n/en-us.json'
+    translation: /%original_path%/%locale%.json
+    languages_mapping:
+      locale:
+        fr: fr-fr
+        de: de-de
+        pt-PT: pt-pt
+        pt-BR: pt-br
+        es-ES: es-es
+        it: it-it
