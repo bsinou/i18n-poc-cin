@@ -1,6 +1,6 @@
 files:
-  - source: '*/lang/box/en-US.all.json'
-    translation: /%original_path%/%locale%.all.json
+  - source: '*/lang/box/en-us.all.json'
+    translation: /%original_path%/%osx_locale%.all.json
   - source: '*/i18n/en.json'
     translation: /%original_path%/%two_letters_code%.json
   - source: '*/i18n/conf/en.json'
