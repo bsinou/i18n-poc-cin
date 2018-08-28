@@ -3,7 +3,7 @@
     "other": "This is a title for a page in go"
   },
   "Goui.Page.OtherTitle": {
-    "other": "This is another title"
+    "other": "Ceci est un autre titre"
   },
   "Goui.Page.Added": {
     "one": "Added {{.Count}} new record in the repository",
